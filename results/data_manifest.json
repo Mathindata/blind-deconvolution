@@ -1,0 +1,42 @@
+{
+ "L-30.las": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2014/aab1cf917bc4b223e1061d2984aa1bce4bc41a1c/1406_Make_a_synthetic/L-30.las",
+  "sha256": "daa19bb3a1841d871eeb7cef299ee5e1d742630141708182c6b8cb13669be19c",
+  "bytes": 3923264
+ },
+ "PenobXL_1155.txt": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2014/aab1cf917bc4b223e1061d2984aa1bce4bc41a1c/1406_Make_a_synthetic/PenobXL_1155.txt",
+  "sha256": "2f8ee2d754fb13f44cf0fe1a2d11ac9f1e0531d37473bf3193b2b93854d062d7",
+  "bytes": 1915555
+ },
+ "P-129_out.LAS": {
+  "url": "https://raw.githubusercontent.com/agilescientific/welly/6ed78b533ac7a5878bf7fd353d2b27ce3981b96a/tests/assets/P-129_out.LAS",
+  "sha256": "7b1330ed08207735bbdb587ae2c1b3216409506c2063b77a38a5b4f9af5fe821",
+  "bytes": 4206314
+ },
+ "poststack_model.npz": {
+  "url": "https://raw.githubusercontent.com/PyLops/pylops/ec96e6444d4337cc6f537619cad1d858e7937c29/testdata/avo/poststack_model.npz",
+  "sha256": "79cb823050e839ca80d1f657166ef2dfc148053cc6070100ee18198287320a18",
+  "bytes": 3531328
+ },
+ "F02-1_logs.las": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2017/b38f798866dd4e1a38c78cfd45edb7b2cfd3d785/1710_Colored_inversion/data/All_wells_RawData/Lasfiles/F02-1_logs.las",
+  "sha256": "279bcfcd007248119a664cc1402985c6181dde52aa4067aaf1efb9b1673ceddb",
+  "bytes": 1240650
+ },
+ "F03-2_logs.las": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2017/b38f798866dd4e1a38c78cfd45edb7b2cfd3d785/1710_Colored_inversion/data/All_wells_RawData/Lasfiles/F03-2_logs.las",
+  "sha256": "81a2b1ba01e5ccd036cd6f050ff0fdfd7656e761de8b5d3f1f9961535aa34367",
+  "bytes": 1900655
+ },
+ "F03-4_logs.las": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2017/b38f798866dd4e1a38c78cfd45edb7b2cfd3d785/1710_Colored_inversion/data/All_wells_RawData/Lasfiles/F03-4_logs.las",
+  "sha256": "2fb2d1a43d50e6e9db403915708830f925eaa0dad9fb23cd542eda8d6e0ddae2",
+  "bytes": 1684655
+ },
+ "F06-1_logs.las": {
+  "url": "https://raw.githubusercontent.com/seg/tutorials-2017/b38f798866dd4e1a38c78cfd45edb7b2cfd3d785/1710_Colored_inversion/data/All_wells_RawData/Lasfiles/F06-1_logs.las",
+  "sha256": "37a900cb1c027233702b33f881493d226feec527e1bfcc71b9bc60902a26fea6",
+  "bytes": 1223079
+ }
+}

@@ -1,0 +1,161 @@
+polarity,sep_ms,method,resolved
+same,4.0,"least squares, true wavelet",0.0
+same,4.0,"l1, true wavelet",0.0
+same,4.0,"l1, 15° phase error",0.0
+same,4.0,"l1, 30° phase error",0.0
+same,8.0,"least squares, true wavelet",0.0
+same,8.0,"l1, true wavelet",0.0
+same,8.0,"l1, 15° phase error",0.0
+same,8.0,"l1, 30° phase error",0.0
+same,12.0,"least squares, true wavelet",0.0
+same,12.0,"l1, true wavelet",1.0
+same,12.0,"l1, 15° phase error",0.0
+same,12.0,"l1, 30° phase error",1.0
+same,16.0,"least squares, true wavelet",0.0
+same,16.0,"l1, true wavelet",1.0
+same,16.0,"l1, 15° phase error",1.0
+same,16.0,"l1, 30° phase error",0.2
+same,20.0,"least squares, true wavelet",0.0
+same,20.0,"l1, true wavelet",1.0
+same,20.0,"l1, 15° phase error",1.0
+same,20.0,"l1, 30° phase error",0.0
+same,24.0,"least squares, true wavelet",0.0
+same,24.0,"l1, true wavelet",1.0
+same,24.0,"l1, 15° phase error",1.0
+same,24.0,"l1, 30° phase error",0.0
+same,28.0,"least squares, true wavelet",0.0
+same,28.0,"l1, true wavelet",1.0
+same,28.0,"l1, 15° phase error",1.0
+same,28.0,"l1, 30° phase error",0.9
+same,32.0,"least squares, true wavelet",0.0
+same,32.0,"l1, true wavelet",1.0
+same,32.0,"l1, 15° phase error",1.0
+same,32.0,"l1, 30° phase error",1.0
+same,36.00000000000001,"least squares, true wavelet",0.0
+same,36.00000000000001,"l1, true wavelet",1.0
+same,36.00000000000001,"l1, 15° phase error",1.0
+same,36.00000000000001,"l1, 30° phase error",1.0
+same,40.0,"least squares, true wavelet",0.0
+same,40.0,"l1, true wavelet",1.0
+same,40.0,"l1, 15° phase error",1.0
+same,40.0,"l1, 30° phase error",1.0
+same,44.0,"least squares, true wavelet",0.0
+same,44.0,"l1, true wavelet",1.0
+same,44.0,"l1, 15° phase error",1.0
+same,44.0,"l1, 30° phase error",1.0
+same,48.0,"least squares, true wavelet",0.0
+same,48.0,"l1, true wavelet",1.0
+same,48.0,"l1, 15° phase error",1.0
+same,48.0,"l1, 30° phase error",1.0
+same,52.00000000000001,"least squares, true wavelet",0.0
+same,52.00000000000001,"l1, true wavelet",1.0
+same,52.00000000000001,"l1, 15° phase error",1.0
+same,52.00000000000001,"l1, 30° phase error",1.0
+same,56.0,"least squares, true wavelet",0.0
+same,56.0,"l1, true wavelet",1.0
+same,56.0,"l1, 15° phase error",1.0
+same,56.0,"l1, 30° phase error",1.0
+same,60.0,"least squares, true wavelet",0.0
+same,60.0,"l1, true wavelet",1.0
+same,60.0,"l1, 15° phase error",1.0
+same,60.0,"l1, 30° phase error",1.0
+same,64.0,"least squares, true wavelet",0.0
+same,64.0,"l1, true wavelet",1.0
+same,64.0,"l1, 15° phase error",1.0
+same,64.0,"l1, 30° phase error",1.0
+same,68.0,"least squares, true wavelet",0.0
+same,68.0,"l1, true wavelet",1.0
+same,68.0,"l1, 15° phase error",1.0
+same,68.0,"l1, 30° phase error",1.0
+same,72.00000000000001,"least squares, true wavelet",0.0
+same,72.00000000000001,"l1, true wavelet",1.0
+same,72.00000000000001,"l1, 15° phase error",1.0
+same,72.00000000000001,"l1, 30° phase error",1.0
+same,76.0,"least squares, true wavelet",0.0
+same,76.0,"l1, true wavelet",1.0
+same,76.0,"l1, 15° phase error",1.0
+same,76.0,"l1, 30° phase error",1.0
+same,80.0,"least squares, true wavelet",0.0
+same,80.0,"l1, true wavelet",1.0
+same,80.0,"l1, 15° phase error",1.0
+same,80.0,"l1, 30° phase error",1.0
+opposite,4.0,"least squares, true wavelet",0.7
+opposite,4.0,"l1, true wavelet",1.0
+opposite,4.0,"l1, 15° phase error",0.0
+opposite,4.0,"l1, 30° phase error",0.0
+opposite,8.0,"least squares, true wavelet",0.4
+opposite,8.0,"l1, true wavelet",1.0
+opposite,8.0,"l1, 15° phase error",1.0
+opposite,8.0,"l1, 30° phase error",1.0
+opposite,12.0,"least squares, true wavelet",1.0
+opposite,12.0,"l1, true wavelet",1.0
+opposite,12.0,"l1, 15° phase error",1.0
+opposite,12.0,"l1, 30° phase error",1.0
+opposite,16.0,"least squares, true wavelet",1.0
+opposite,16.0,"l1, true wavelet",1.0
+opposite,16.0,"l1, 15° phase error",1.0
+opposite,16.0,"l1, 30° phase error",1.0
+opposite,20.0,"least squares, true wavelet",1.0
+opposite,20.0,"l1, true wavelet",1.0
+opposite,20.0,"l1, 15° phase error",1.0
+opposite,20.0,"l1, 30° phase error",1.0
+opposite,24.0,"least squares, true wavelet",1.0
+opposite,24.0,"l1, true wavelet",1.0
+opposite,24.0,"l1, 15° phase error",1.0
+opposite,24.0,"l1, 30° phase error",1.0
+opposite,28.0,"least squares, true wavelet",1.0
+opposite,28.0,"l1, true wavelet",1.0
+opposite,28.0,"l1, 15° phase error",1.0
+opposite,28.0,"l1, 30° phase error",1.0
+opposite,32.0,"least squares, true wavelet",0.9
+opposite,32.0,"l1, true wavelet",1.0
+opposite,32.0,"l1, 15° phase error",1.0
+opposite,32.0,"l1, 30° phase error",1.0
+opposite,36.00000000000001,"least squares, true wavelet",0.9
+opposite,36.00000000000001,"l1, true wavelet",1.0
+opposite,36.00000000000001,"l1, 15° phase error",1.0
+opposite,36.00000000000001,"l1, 30° phase error",0.9
+opposite,40.0,"least squares, true wavelet",1.0
+opposite,40.0,"l1, true wavelet",1.0
+opposite,40.0,"l1, 15° phase error",1.0
+opposite,40.0,"l1, 30° phase error",1.0
+opposite,44.0,"least squares, true wavelet",1.0
+opposite,44.0,"l1, true wavelet",1.0
+opposite,44.0,"l1, 15° phase error",1.0
+opposite,44.0,"l1, 30° phase error",1.0
+opposite,48.0,"least squares, true wavelet",1.0
+opposite,48.0,"l1, true wavelet",1.0
+opposite,48.0,"l1, 15° phase error",1.0
+opposite,48.0,"l1, 30° phase error",1.0
+opposite,52.00000000000001,"least squares, true wavelet",0.9
+opposite,52.00000000000001,"l1, true wavelet",1.0
+opposite,52.00000000000001,"l1, 15° phase error",1.0
+opposite,52.00000000000001,"l1, 30° phase error",1.0
+opposite,56.0,"least squares, true wavelet",0.9
+opposite,56.0,"l1, true wavelet",1.0
+opposite,56.0,"l1, 15° phase error",1.0
+opposite,56.0,"l1, 30° phase error",1.0
+opposite,60.0,"least squares, true wavelet",0.9
+opposite,60.0,"l1, true wavelet",1.0
+opposite,60.0,"l1, 15° phase error",1.0
+opposite,60.0,"l1, 30° phase error",1.0
+opposite,64.0,"least squares, true wavelet",0.9
+opposite,64.0,"l1, true wavelet",1.0
+opposite,64.0,"l1, 15° phase error",1.0
+opposite,64.0,"l1, 30° phase error",1.0
+opposite,68.0,"least squares, true wavelet",0.7
+opposite,68.0,"l1, true wavelet",1.0
+opposite,68.0,"l1, 15° phase error",1.0
+opposite,68.0,"l1, 30° phase error",1.0
+opposite,72.00000000000001,"least squares, true wavelet",0.6
+opposite,72.00000000000001,"l1, true wavelet",1.0
+opposite,72.00000000000001,"l1, 15° phase error",1.0
+opposite,72.00000000000001,"l1, 30° phase error",1.0
+opposite,76.0,"least squares, true wavelet",0.6
+opposite,76.0,"l1, true wavelet",1.0
+opposite,76.0,"l1, 15° phase error",1.0
+opposite,76.0,"l1, 30° phase error",1.0
+opposite,80.0,"least squares, true wavelet",0.5
+opposite,80.0,"l1, true wavelet",1.0
+opposite,80.0,"l1, 15° phase error",1.0
+opposite,80.0,"l1, 30° phase error",1.0

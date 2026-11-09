@@ -1,0 +1,246 @@
+{
+ "summary_main": [
+  {
+   "testbed": "S0 sparse",
+   "method": "oracle",
+   "wavelet_corr": 1.0,
+   "phase_err": 0.0,
+   "spike_f1": 0.836,
+   "refl_corr": 0.945
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "B1",
+   "wavelet_corr": 0.908,
+   "phase_err": 14.0,
+   "spike_f1": 0.558,
+   "refl_corr": 0.694
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "B2",
+   "wavelet_corr": 0.913,
+   "phase_err": 10.625,
+   "spike_f1": 0.529,
+   "refl_corr": 0.687
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "B3",
+   "wavelet_corr": 0.969,
+   "phase_err": 4.25,
+   "spike_f1": 0.634,
+   "refl_corr": 0.849
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "B4",
+   "wavelet_corr": 0.855,
+   "phase_err": 9.375,
+   "spike_f1": 0.426,
+   "refl_corr": 0.529
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "AM",
+   "wavelet_corr": 0.999,
+   "phase_err": 0.0,
+   "spike_f1": 0.832,
+   "refl_corr": 0.944
+  },
+  {
+   "testbed": "S0 sparse",
+   "method": "AM-amp",
+   "wavelet_corr": 0.976,
+   "phase_err": 1.625,
+   "spike_f1": 0.662,
+   "refl_corr": 0.871
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "oracle",
+   "wavelet_corr": 1.0,
+   "phase_err": 0.0,
+   "spike_f1": 0.789,
+   "refl_corr": 0.952
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "B1",
+   "wavelet_corr": 0.909,
+   "phase_err": 14.0,
+   "spike_f1": 0.63,
+   "refl_corr": 0.788
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "B2",
+   "wavelet_corr": 0.915,
+   "phase_err": 8.25,
+   "spike_f1": 0.612,
+   "refl_corr": 0.779
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "B3",
+   "wavelet_corr": 0.963,
+   "phase_err": 5.0,
+   "spike_f1": 0.747,
+   "refl_corr": 0.919
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "B4",
+   "wavelet_corr": 0.178,
+   "phase_err": 28.375,
+   "spike_f1": 0.222,
+   "refl_corr": 0.207
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "AM",
+   "wavelet_corr": 0.931,
+   "phase_err": 20.5,
+   "spike_f1": 0.556,
+   "refl_corr": 0.718
+  },
+  {
+   "testbed": "S1 blocky 2D",
+   "method": "AM-amp",
+   "wavelet_corr": 0.912,
+   "phase_err": 19.625,
+   "spike_f1": 0.654,
+   "refl_corr": 0.782
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "oracle",
+   "wavelet_corr": 1.0,
+   "phase_err": 0.0,
+   "spike_f1": NaN,
+   "refl_corr": 0.317
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "B1",
+   "wavelet_corr": 0.895,
+   "phase_err": 13.625,
+   "spike_f1": NaN,
+   "refl_corr": 0.317
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "B2",
+   "wavelet_corr": 0.898,
+   "phase_err": 11.5,
+   "spike_f1": NaN,
+   "refl_corr": 0.275
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "B3",
+   "wavelet_corr": 0.939,
+   "phase_err": 7.875,
+   "spike_f1": NaN,
+   "refl_corr": 0.341
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "B4",
+   "wavelet_corr": 0.793,
+   "phase_err": 12.75,
+   "spike_f1": NaN,
+   "refl_corr": 0.239
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "AM",
+   "wavelet_corr": 0.874,
+   "phase_err": 9.5,
+   "spike_f1": NaN,
+   "refl_corr": 0.305
+  },
+  {
+   "testbed": "S2 real logs",
+   "method": "AM-amp",
+   "wavelet_corr": 0.898,
+   "phase_err": 10.125,
+   "spike_f1": NaN,
+   "refl_corr": 0.309
+  }
+ ],
+ "field": [
+  {
+   "method": "B1 zero-phase",
+   "corr_to_well_wavelet": 0.8,
+   "constant_phase_deg": 0,
+   "tie_corr_at_well": 0.46
+  },
+  {
+   "method": "B2 minimum-phase",
+   "corr_to_well_wavelet": 0.74,
+   "constant_phase_deg": -90,
+   "tie_corr_at_well": 0.42
+  },
+  {
+   "method": "B3 kurtosis phase",
+   "corr_to_well_wavelet": 0.78,
+   "constant_phase_deg": -14,
+   "tie_corr_at_well": 0.44
+  },
+  {
+   "method": "B4 homomorphic",
+   "corr_to_well_wavelet": 0.68,
+   "constant_phase_deg": 29,
+   "tie_corr_at_well": 0.35
+  },
+  {
+   "method": "AM sparse (ours)",
+   "corr_to_well_wavelet": 0.75,
+   "constant_phase_deg": 11,
+   "tie_corr_at_well": 0.39
+  },
+  {
+   "method": "AM sparse + amp. constraint (ours)",
+   "corr_to_well_wavelet": 0.82,
+   "constant_phase_deg": 3,
+   "tie_corr_at_well": 0.45
+  },
+  {
+   "method": "well wavelet (reference)",
+   "corr_to_well_wavelet": 1.0,
+   "constant_phase_deg": -44,
+   "tie_corr_at_well": 0.58
+  }
+ ],
+ "boot_phase": [
+  10,
+  10,
+  10,
+  10,
+  13,
+  6
+ ],
+ "gauge": [
+  {
+   "wavelet": "90\u00b0 rotated",
+   "corr_vs_true": 0.942,
+   "corr_vs_effective": 0.999
+  },
+  {
+   "wavelet": "minimum phase",
+   "corr_vs_true": 0.943,
+   "corr_vs_effective": 0.999
+  },
+  {
+   "wavelet": "mixed phase",
+   "corr_vs_true": 0.899,
+   "corr_vs_effective": 0.999
+  },
+  {
+   "wavelet": "zero phase",
+   "corr_vs_true": 0.942,
+   "corr_vs_effective": 0.999
+  }
+ ]
+}

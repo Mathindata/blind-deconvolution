@@ -1,0 +1,8 @@
+method,corr_to_well_wavelet,constant_phase_deg,tie_corr_at_well
+B1 zero-phase,0.8,0,0.46
+B2 minimum-phase,0.74,-90,0.42
+B3 kurtosis phase,0.78,-14,0.44
+B4 homomorphic,0.68,29,0.35
+AM sparse (ours),0.75,11,0.39
+AM sparse + amp. constraint (ours),0.82,3,0.45
+well wavelet (reference),1.0,-44,0.58
