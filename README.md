@@ -22,11 +22,11 @@ with one wavelet $w$ shared by all traces and a reflectivity $r_j$ per trace, $r
 
 | Difficulty | What it means | Figure |
 |---|---|---|
-| Gauges | Scale, sign and time shift of $w$ can never be recovered: $w*r = (cS_\tau w)*(c^{-1}S_{-\tau}r)$ | 02 |
+| Gauges | Scale, sign and time shift of $w$ can never be recovered: $w \ast r = (c S_\tau w) \ast (c^{-1} S_{-\tau} r)$ | 02 |
 | Phase blindness | With Gaussian reflectivity, all wavelets with one amplitude spectrum give the same data. Phase is visible only because real reflectivity is spiky | 03 |
 | Ill-conditioning | The wavelet is band-pass; least squares amplifies noise enormously, a sparse prior does not | 04 |
 | Thin beds | Reflectors closer than tuning (about 15 ms at 25 Hz) merge | 15 |
-| Shared filters | Any filter common to all reflectivity traces moves into the wavelet: $w*(g*\tilde r) = (w*g)*\tilde r$ | 07, 14 |
+| Shared filters | Any filter common to all reflectivity traces moves into the wavelet: $w \ast (g \ast \tilde r) = (w \ast g) \ast \tilde r$ | 07, 14 |
 
 ![Phase blindness](figures/03_phase_blindness.png)
 
