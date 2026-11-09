@@ -54,15 +54,15 @@ Penobscot seismic is owned by the Nova Scotia Department of Energy and distribut
 MAP estimate under a Laplace prior on reflectivity:
 
 $$
-\min_{w,\,r_1..r_J} \sum_j \tfrac12\lVert y_j - w*r_j\rVert^2 + \lambda_j \lVert r_j\rVert_1
-\quad \text{s.t. } \lVert w\rVert = 1,\ \operatorname{supp}(w) \text{ of length } L .
+\min_{w, r_1, \dots, r_J} \sum_j \tfrac12 \lVert y_j - w*r_j \rVert^2 + \lambda_j \lVert r_j \rVert_1
+\quad \text{s.t.} \quad \lVert w \rVert = 1, \quad \mathrm{supp}(w) \text{ of length } L
 $$
 
 **Alternating minimisation (AM):**
 - **Reflectivity step:** FISTA, step $1/\max_f|W(f)|^2$ (exact Lipschitz constant, one FFT), soft threshold.
 - **Wavelet step:** closed-form least squares; the normal equations are Toeplitz and are solved by Levinson recursion.
 - **Gauges:** unit norm; recentre the wavelet's envelope after each update; sign is left free.
-- **Per-trace $\lambda_j = \rho\,\lambda_{\max,j}$ with continuation** of $\rho$ from 0.5 to 0.05, so strong reflectors fix the wavelet first.
+- **Per-trace** $\lambda_j = \rho \lambda_{\max,j}$ **with continuation** of $\rho$ from 0.5 to 0.05, so strong reflectors fix the wavelet first.
 
 **AM-amp variant:** project each wavelet update onto the statistical amplitude spectrum, so second-order statistics set $|W(f)|$ and sparsity sets only the phase.
 
